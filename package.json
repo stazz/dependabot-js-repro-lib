@@ -1,0 +1,7 @@
+{
+  "name": "dependabot-js-repro-lib",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "22.13.7"
+  }
+}
