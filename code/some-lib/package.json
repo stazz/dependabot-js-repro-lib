@@ -1,12 +1,9 @@
 {
-  "name": "@dependabot-js-repro-lib/main",
+  "name": "@dependabot-js-repro-lib/some-lib",
   "private": true,
   "version": "1.0.0",
   "description": "Dummy package with dependency which is NOT latest version",
-  "workspaces": [
-    "code/some-lib"
-  ],
   "devDependencies": {
-    "@types/node": "22.13.7"
+    "@yarnpkg/lockfile": "1.0.2"
   }
 }
