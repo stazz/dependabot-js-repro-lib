@@ -1,6 +1,8 @@
 {
   "name": "dependabot-js-repro-lib",
   "private": true,
+  "version": "1.0.0",
+  "description": "Dummy package with dependency which is NOT latest version",
   "devDependencies": {
     "@types/node": "22.13.7"
   }
